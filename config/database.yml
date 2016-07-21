@@ -26,6 +26,7 @@ test:
 
 production:
   <<: *default
-  database: db/catalytics_production_postgre
-  username: catalytics
-  password: 'catalyticsDB1'
+  host: ec2-54-83-27-147.compute-1.amazonaws.com
+  database: dpor3p30r8324
+  username: zouosrlidcwsgf
+  password: 'jX6s60GlJwEhqPt6ysZWPn8UiI'
