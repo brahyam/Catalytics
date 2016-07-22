@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  reference_quotation: MyString
+  customer_reference: MyString
+  value: 9.99
+  transport: MyString
+
+two:
+  status: MyString
+  reference_quotation: MyString
+  customer_reference: MyString
+  value: 9.99
+  transport: MyString
